@@ -11,16 +11,13 @@ Welcome to my project showcase! This repo links to the major data science and ma
 
 ## 📊 Projects
 
-### 1. [Customer Churn Prediction](link)
+### 1. [Customer Churn Prediction]((https://github.com/shuchivardan/customer-churn-prediction))
 Built a classification model to predict telecom customer churn using logistic regression and XGBoost. Includes SHAP analysis for model interpretability.
 
-### 2. [Lead Scoring Model](link)
+### 2. [Lead Scoring Model](https://github.com/shuchivardan/lead-scoring-model)
 Created a scoring system for inbound leads based on firmographic and behavioral attributes. Improved prioritization and targeting for sales teams.
 
-### 3. [E-Commerce Recommender](link)
-Designed a content-based product recommendation engine using cosine similarity and Streamlit deployment.
-
-### 4. [Customer Behaviour Based Targetting](link)
+### 3. [Customer Behaviour Based Targetting](https://github.com/shuchivardan/user-behavior-based-targeting)
 RFM-based customer segmentation for campaign targeting using transaction-level payments data.
 
 ---
