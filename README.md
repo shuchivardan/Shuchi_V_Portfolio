@@ -34,5 +34,4 @@ RFM-based customer segmentation for campaign targeting using transaction-level p
 
 ## 📫 Contact
 
-- 📧 shuchivardan@example.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shuchivardan/)
